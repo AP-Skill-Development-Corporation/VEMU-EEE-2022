@@ -1,0 +1,54 @@
+Day-01[14-02-2022]:
+===================
+
+	Good Morning to All...
+
+	Python:
+	=======
+		- Python 2.x
+		- Python 3.x
+
+	Compiler:
+	=========
+		- It will displays all the errors at a time
+
+	Interpreter:
+	============
+		- It will displays only one error if it is rectified then it will execute for another line
+
+	Python Software Downloads:
+	==========================
+		- https://python.org => official site for download and for documentation
+		- place cursor on downloads
+		- Try to select the operating system
+		- After selecting we need to search for particular version of python
+		- Cntrl + f and type the version of python 
+			"python 3.7.5"
+		- Try to download the bit of python version
+		- If 32 bit select Windows x86 executeable installer
+		- If 64 bit select windows x86-64 executeable installer
+		- After downloading we need to proceed for installation
+
+	Python Installation:
+	====================
+		- After downloading the software we need to double tap on it then it will displays the window
+		- It displays 2 options and 2 check boxes. First we need to select those check boxes one is for user permissions and the other is for adding path for environment variables
+		- Two Options are displayed in the window i.e.,
+			- Install Now
+			- Customize Installation
+		- Install now is to be choosen because by default it installs in the particular folder i.e., "C:\Users\xxxx\AppData\Local\Programs\Python3x\" 
+		- Customize installation is used for user defined folder where to install the python software
+		- We need to select the "Install Now" option and need to check both checkboxes for adding path to environment variables
+		- After clicking on "install now" it will installs automatically and then finally it displays the window with "successfull installation".
+
+
+	Different ways to execute python program:
+	=========================================
+		- Basic Procedure [Notepad + Interpreter]
+		- Advanced Editor [Notepad++,geany,Atom,Editplus,Sublime]
+		- IDLE [Integrated Development Learning Environment]
+		- Jupyter Notebook
+
+	https://AP-Skill-Development-Corporation/VEMU-EEE-2022
+
+	
