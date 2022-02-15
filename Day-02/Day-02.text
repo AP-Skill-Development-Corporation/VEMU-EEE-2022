@@ -1,0 +1,32 @@
+Day-02[15-02-2022]:
+==================
+	Good Morning to All...
+
+	Literate programming => documentation + Coding
+
+	Jupyter Notebook:
+		- cmd
+		- python -V
+		- pip -V
+	Pip:
+	====
+		- It is used to install third party packages
+		- cmd
+		- pip -V
+
+	Installation of Jupyter Notebook:
+	=================================
+		- cmd
+		- pip install jupyter notebook
+		- Warning is occured we need to update or upgrade the pip
+		- python -m pip install --upgrade pip
+		- pip install jupter notebook
+
+	Jupyter Notebook Running:
+	=========================
+		- cmd
+		- jupyter notebook
+	
+	
+
+
