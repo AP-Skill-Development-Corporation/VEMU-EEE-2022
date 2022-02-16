@@ -8,5 +8,9 @@ Python Programming for 2nd EEE
   - Completed on Basic,Advanced and Idle executions briefly
 
 ## Day-02(15-02-2022):
-  - Installation of Jupyter Notebook and breif about it,Literate programming explanation
+  - Installation of Jupyter Notebook and breif explanation about it,Literate programming explanation
   - Variables,data types,Type and input method with sample examples on each
+
+## Day-03(16-02-2022):
+  - Output Formatting
+  - Operators,Conditional Statements with sample examples on each
