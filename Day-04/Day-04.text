@@ -1,0 +1,12 @@
+Day-04[17-02-2022]:
+===================
+	Good Morning to All..
+
+	n!=0:
+		r = r * 10 + n%10
+		n //=10
+
+	Input:
+		1248
+	Output:
+		Given number is 1248 and its reverse is: 8421

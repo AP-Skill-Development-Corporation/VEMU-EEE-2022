@@ -1,0 +1,28 @@
+Task:
+=====
+	- Concepts:
+	===========
+		- Function and its types
+		- Function arguments and its types
+		- All Data Structures[List,Tuple,Set,String and Dictionary]
+
+Task-1:
+=======
+	*** Use only While ***
+	Input-1:
+			78985478
+	Output-1:
+			Given number is: 78985478
+			Left Half number is: 7898
+			Right Half number is: 5478
+			Left Half reverse and right number is: 89875478
+			Right Half reverse and left number is: 78988745
+
+	Input-2:
+			48578
+	Output-2:
+			Given number is: 48578
+			Left Half number is: 48
+			Right Half number is: 78
+			Left Half reverse and right number is: 84578
+			Right Half reverse and left number is: 48587
