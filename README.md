@@ -14,3 +14,7 @@ Python Programming for 2nd EEE
 ## Day-03(16-02-2022):
   - Output Formatting
   - Operators,Conditional Statements with sample examples on each
+
+## Day-04(17-02-2022):
+  - Control Statements,Jumping Statements with sample examples on each
+  - Inner Loop Concept with sample example
