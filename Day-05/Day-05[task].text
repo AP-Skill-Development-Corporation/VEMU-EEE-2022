@@ -1,0 +1,32 @@
+Task:
+=====
+	- Concepts:
+	===========
+		- Set,Dictionary
+		- Functions and its types
+		- Function argument and its types
+
+	** Use While Loop Its dynamic program **
+	Task-1:
+	=======
+		Input-1:
+				7895
+		Output-1:
+				Total Number of digits: 4
+				Even numbers are: 8
+				Odd numbers are: 7 9 5
+				Even numbers sum is: 8
+				Odd numbers sum is: 21
+				Even numbers count is: 1
+				Odd numbers count is: 3
+
+		Input-2:
+				459
+		Output-2:
+				Total Number of digits: 3
+				Even numbers are: 4
+				Odd numbers are: 5 9 
+				Even numbers sum is: 4
+				Odd numbers sum is: 14
+				Even numbers count is: 1
+				Odd numbers count is: 2
