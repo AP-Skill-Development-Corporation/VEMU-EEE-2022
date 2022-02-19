@@ -23,3 +23,6 @@ Python Programming for 2nd EEE
   - Inner Loop example
   - Data Structures explanation and practiced some hackerrank problems
   - List,Tuple methods with sample examples on each
+
+## Day-06(19-02-2022):
+  - Set,Dictionary and String Methods with sampel examples on each
