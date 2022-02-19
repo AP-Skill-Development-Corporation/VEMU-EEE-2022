@@ -18,3 +18,8 @@ Python Programming for 2nd EEE
 ## Day-04(17-02-2022):
   - Control Statements,Jumping Statements with sample examples on each
   - Inner Loop Concept with sample example
+
+## Day-05(18-02-2022):
+  - Inner Loop example
+  - Data Structures explanation and practiced some hackerrank problems
+  - List,Tuple methods with sample examples on each
